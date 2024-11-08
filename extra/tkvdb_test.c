@@ -9,7 +9,7 @@
 
 #include "tkvdb.h"
 
-static void test_init();
+static void test_init(void);
 #define ACUTEST_INIT__ test_init()
 #include "acutest.h"
 
